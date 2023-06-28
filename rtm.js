@@ -1,3 +1,6 @@
-const removeSmallest = () => {}
+
+const removeSmallest = arrayOfIntegers => {
+    
+}
 
 export default removeSmallest
